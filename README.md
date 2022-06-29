@@ -14,6 +14,6 @@ Se toma el input de un usuario que consta de un valor y su descuento ambos deben
 5. [Async/Await](ejercicio-5/main.js).
 
 ### Sistema de librería.
-Sistema sencillo con el cuál podemos leer, agregar y quitar notas de un [archivo](ejercicio-6_7/data/notas.json) JSON. Toda la estructura del proyecto se encuentra [aquí](ejercicio-6_7/)
+Sistema sencillo con el cuál podemos leer, agregar y quitar notas de un [archivo](ejercicio-6_7/data/notas.json) JSON. Toda la estructura del proyecto se encuentra [aquí](ejercicio-6_7/).
 
 
