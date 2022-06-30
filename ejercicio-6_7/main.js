@@ -2,7 +2,7 @@ const Notas = require('./classes/Notas')
 
 const n = new Notas();
 
-n.agregarNota('Lord of the Rings', 'J. R. R. Tolkien');
+n.agregarNota('Lord of the Rings', 'J.R.R. Tolkien');
 n.agregarNota('IT', 'Stephen King');
 n.agregarNota('Harry Potter and the Globbet of Fire', 'J. K. Rowling');
 n.agregarNota('Dune', 'Frank Herbert');
